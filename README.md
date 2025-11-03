@@ -6,6 +6,8 @@
 [![Framework](https://img.shields.io/badge/Framework-LangGraph-green)](https://github.com/langchain-ai/langgraph)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success)]()
 
+> 📖 **[Read the full publication on Ready Tensor](https://app.readytensor.ai/publications/morning-assistant-multi-agent-system-o492tNLs2qZk)**
+
 ---
 
 ## 📋 Overview
