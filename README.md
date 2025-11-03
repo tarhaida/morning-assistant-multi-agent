@@ -240,8 +240,8 @@ MORNING ASSISTANT MULTI-AGENT SYSTEM
 ================================================================================
 Started at: 2025-01-15 07:00:00
 
-City: Divonne-les-Bains
-Phone: +41766757205
+City: Paris
+Phone: +1234567890
 
 [WeatherAgent] Analyzing weather for Divonne-les-Bains...
 [WeatherAgent] Analysis complete
@@ -255,8 +255,8 @@ Phone: +41766757205
 [CommunicationAgent] Creating family message...
 [CommunicationAgent] Message created (245 chars)
 
-[CommunicationAgent] Sending message to +41766757205...
-[CommunicationAgent] Send status: {'status': 'sent', 'phone': '+41766757205'}
+[CommunicationAgent] Sending message to +1234567890...
+[CommunicationAgent] Send status: {'status': 'sent', 'phone': '+1234567890'}
 
 ================================================================================
 WORKFLOW COMPLETE
