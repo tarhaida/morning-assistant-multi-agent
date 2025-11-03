@@ -1,0 +1,27 @@
+# Reasoning Strategies for Morning Assistant Agents
+
+reasoning_strategies:
+  
+  # Chain of Thought - Step-by-step logical reasoning
+  CoT:
+    - "Step 1: Analyze the input data carefully"
+    - "Step 2: Identify key information and patterns"
+    - "Step 3: Consider implications and connections"
+    - "Step 4: Formulate actionable insights"
+    - "Step 5: Present conclusions clearly and concisely"
+  
+  # Reasoning + Acting - Iterative thought-action cycle
+  ReAct:
+    - "Thought: What is the current situation and goal?"
+    - "Action: What action should I take?"
+    - "Observation: What was the result of the action?"
+    - "Thought: Based on the observation, what should I do next?"
+    - "Continue this cycle until the goal is achieved"
+  
+  # Self-Ask - Question-driven exploration
+  Self-Ask:
+    - "Ask: What is the main question I need to answer?"
+    - "Follow-up: What sub-questions must I answer first?"
+    - "Answer each sub-question systematically"
+    - "Synthesize: Combine answers to address the main question"
+    - "Verify: Does my answer make sense and is it complete?"

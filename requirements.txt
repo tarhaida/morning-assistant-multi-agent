@@ -1,0 +1,27 @@
+# Morning Assistant Multi-Agent System - Dependencies
+
+# Core frameworks
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+
+# LLM providers
+langchain-openai>=0.2.0
+langchain-anthropic>=0.2.0
+langchain-groq>=0.2.0
+langchain-google-genai>=2.0.0
+
+# Tools and utilities
+langchain-community>=0.3.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+
+# Existing project dependencies (from original script)
+# Add these if the original modules are available
+# weather_app - custom module
+# menu_extractor - custom module
+# whatsapp_simple - custom module
+# simple_menu_checker - custom module
+
+# Optional visualization
+pygraphviz>=1.11  # For graph visualization (optional)
