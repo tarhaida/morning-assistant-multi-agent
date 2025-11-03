@@ -159,7 +159,7 @@ settings:
 python code/morning_assistant.py
 
 # With custom phone number
-python code/morning_assistant.py +41766757205
+python code/morning_assistant.py +1234567890
 ```
 
 ---
